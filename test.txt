@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-This is the new test file. 
-=======
 change
->>>>>>> master
+
