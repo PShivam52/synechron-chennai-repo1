@@ -9,4 +9,3 @@ rebase demo 1
 rebase demo 3
 rebase demo 5
 revert demo
-revert demo
